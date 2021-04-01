@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Gerenciador-de-cursos&apos; to &apos;gerenciador-de-cursos&apos;" description="Rename resource &apos;Gerenciador-de-cursos&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Gerenciador-de-cursos" name="gerenciador-de-cursos" stamp="1617291313968" updateReferences="true"/>
+</session>
